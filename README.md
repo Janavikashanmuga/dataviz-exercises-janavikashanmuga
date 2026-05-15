@@ -9,7 +9,9 @@ The goal of this repository is to demonstrate proficiency in data storytelling, 
 
 **Technical Stack**
 **Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+
 **Tools**: Jupyter Notebooks, Flourish, Supabase
+
 **Core Concepts**: Data cleaning, CRUD operations, CEFR-level text analysis, and creating accessible (color-blind friendly) visualizations.
 
 **Repository Organization**
