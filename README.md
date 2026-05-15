@@ -1,5 +1,4 @@
-# dataviz-exercises-janavikashanmuga
-
+# Data Visualization - Janavika Shanmuga
 **Data Visualization Exercises**
 
 This repository serves as a comprehensive collection of my data visualization projects and university exercises. It documents my journey in transforming raw data into impactful visual stories, updated continuously as the curriculum progresses.
