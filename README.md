@@ -16,25 +16,33 @@ The goal of this repository is to demonstrate proficiency in data storytelling, 
 The project is structured to ensure easy navigation through various datasets and visualization techniques:
 
 **Notebooks & Scripts**: Python-based analysis and chart generation logic.
+
 **Interactive Exports**: HTML versions of visualizations for web-based viewing.
+
 **Datasets**: A centralized data/ directory containing the raw sources for all exercises.
 
-**Key Focus Areas
+
+
+**Key Focus Areas**
 
 **Interactive Dashboards**: Utilizing Plotly and Flourish to create user-centric data experiences.
+
 **Statistical Analysis**: Visualizing distributions, correlations, and temporal trends to uncover hidden patterns.
+
 **Design Ethics**: Prioritizing professional aesthetics, centered titling, and accessible color palettes for inclusive data communication.
+
 **Real-World Application**: Projects involving hospital triage logic, environmental tracking, and socio-economic indicators.
 
 **Getting Started**
 To explore the analysis and logic behind the visuals:
 
 **Clone the repository**:
+
 git clone https://github.com/Janavikashanmuga/dataviz-exercises-janavikashanmuga.git
 
 Open the directory in your preferred IDE (e.g., VS Code or Jupyter Lab).
 
-View the** .html files** in any modern web browser to interact with the final outputs.
+View the **.html files** in any modern web browser to interact with the final outputs.
 
 
 **Project Status**
